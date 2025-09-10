@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Identifying Digital Lead Users: A Systematic Review and Theoretical Framework"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: Jul 2025
+venue: 'Pacific Asia Conference on Information Systems (PACIS)'
+paperurl: 'https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/1/'
+citation: 'Luo, Chen; Liu, Libo; and Cui, Tingru, "Identifying Digital Lead Users: A Systematic Review and Theoretical Framework" (2025). PACIS 2025 Proceedings. 1.
+https://aisel.aisnet.org/pacis2025/is_adoption/is_adoption/1'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
