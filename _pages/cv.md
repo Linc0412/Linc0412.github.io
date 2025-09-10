@@ -44,6 +44,6 @@ Teaching
   
 Service 
 ======
-* Reviewers of International Conference on Information Systems (ICIS, 2025)
-* Australasian Conference on Information Systems (ACIS, 2024&2025)
+* Reviewer of International Conference on Information Systems (ICIS, 2025)
+* Reviewer of Australasian Conference on Information Systems (ACIS, 2024&2025)
 
