@@ -52,6 +52,15 @@ Application number: 202210509853.2
 Application number: 202211319318.7
 * BIAS Index-based Public Opinion Trend Analysis Application Method, System and Application.  
 Application number: 202211274465.7
+
+Awards
+======
+* 2024, Melbourne Research Scholarship
+* 2022, Group Company Technical Research Breakthrough Award
+* 2017, Outstanding Graduate of Wuhan University of Technology
+* 2016, Qualification of Postgraduate Recommendation
+* 2016, Second Prize of Excellent Scientific Research Achievement in Hubei Province
+* 2014&2015, Excellent Student Scholarship
   
 Service 
 ======
