@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "A Systematic Literature Review on Human-Agent Teaming with Insights into Multi-Agent Interactions"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: Jul 2025
+venue: 'Pacific Asia Conference on Information Systems (PACIS)'
+paperurl: 'https://aisel.aisnet.org/pacis2025/hci/hci/20/'
+citation: 'Yu, Zixiao; Cui, Tingru; Luo, Chen; and Tan, Dilang, "A Systematic Literature Review on Human-Agent Teaming with Insights into Multi-Agent Interactions" (2025). PACIS 2025 Proceedings. 20.
+https://aisel.aisnet.org/pacis2025/hci/hci/20'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
