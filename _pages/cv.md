@@ -41,6 +41,17 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Patents
+======
+* Social Media-oriented Topic Lifecycle Trend Prediction Method and System, and Medium.
+Application number: 202210510826.7
+* Topic Lifecycle Curve Clustering Method, System and Application.
+Application number: 202210509853.2
+* Public Opinion Trend Analysis Application Method, System and Application Based on MACD Index.
+Application number: 202211319318.7
+* BIAS Index-based Public Opinion Trend Analysis Application Method, System and Application.
+Application number: 202211274465.7
   
 Service 
 ======
