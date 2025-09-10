@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+📄 [Download my full CV in PDF]
+
 Education
 ======
 * Ph.D in Information Systems, University of Melbourne, 12/2027 (expected)
