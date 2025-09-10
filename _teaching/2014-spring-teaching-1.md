@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Foundations of Information Systems (ISYS10001), Tutor"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Melbourne, School of Computing and Information Systems"
+date: 2025 Fall
+location: "Melbourne, AU"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
