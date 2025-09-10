@@ -9,7 +9,11 @@ redirect_from:
 
 **Aloha! I am Chen Luo 😀**
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+I am a second-year PhD candidate at the School of Computing and Information Systems, University of Melbourne, working with Dr. A and Dr. B. Prior to my doctoral studies, I earned my Bachelor’s degree in Management Information Systems from Wuhan University of Technology, and my Master’s degree in Data Science from the University of Southern California. After graduation, I worked as a data scientist in industry in China for over three years.
+
+My research interests focus on social media analytics, machine learning, applications of generative AI, digital innovation, and design science.
+
+Outside of academia, I enjoy traveling, sports, and gaming. I am always open to collaboration and making new friends!
    
 **My research interests include:**
 
